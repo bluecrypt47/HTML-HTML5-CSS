@@ -13,6 +13,7 @@ body{
 #head #logo{
     height: 50px;
     width: 240px;
+    margin-left: 10px;
     float: left;
 }
 
