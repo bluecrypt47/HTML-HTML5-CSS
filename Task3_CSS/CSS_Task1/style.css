@@ -78,6 +78,19 @@ body{
     font-weight: bolder;
     color: black;
 }
+#left .trans a{
+    display: block;
+    text-decoration: none;
+    background-color: #04AA6D;
+    text-align: center;
+    width: 180px;
+    height: 30px;
+    border-radius: 25px;
+    margin-top: 10px;
+    padding-top: 10px;
+    font-size: 18px;
+    float: left;
+}
 
 .module2{
     background-image: url(/images/extra-box-bg.jpg);
