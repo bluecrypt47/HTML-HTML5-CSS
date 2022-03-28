@@ -1,9 +1,12 @@
-#### Người thực hiện: Lê Trần Văn Chương
-# Mục lục
+### Người thực hiện: Lê Trần Văn Chương
+Ngày làm: 21 - 25/03/2022.
+
+Mục lục:
 - HTML5 là gì?
 - HTML5 có gì mới?
 - Ưu điểm
 - Nhược điểm
+- Task 2- HTML5
 
 ## HTML5 là gì?
 - Là phiên bản thứ 5 của ngôn ngữ HTML, được giới thiệu bởi World Wide Web Consortium (W3C).

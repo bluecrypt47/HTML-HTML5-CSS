@@ -1,6 +1,8 @@
-#### Người thực hiện: Lê Trần Văn Chương
+### Người thực hiện: Lê Trần Văn Chương
+Ngày làm: 21 - 25/03/2022.
 
-# Mục lục
+Mục lục:
+
 - HTML và vai trò của HTML
 - Cấu trúc HTML
 - Các thẻ khai báo thông tin web cơ bản
@@ -9,6 +11,7 @@
 - Chèn tập tin kỹ thuật số vào web
 - Tạo danh sách (List)
 - Tạo form nhập liệu
+- Task 1 - HTML5
 
 ## HTML và vai trò của HTML
 - HTML: Là chữ viết tắt của cụm từ HyperText Markup Language. Là ngôn ngữ đánh dấu siêu văn bản
